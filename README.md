@@ -11,4 +11,13 @@ git clone https://github.com/sachinlakshitha/spring-boot-3-jsp-auth-interceptor.
 cd spring-boot-3-jsp-auth-interceptor
 mvnw spring-boot:run
 http://localhost:8080/login
+Username - admin
+Password - 123456
+```
+
+## Login credentials
+
+```
+Username - admin
+Password - 123456
 ```
